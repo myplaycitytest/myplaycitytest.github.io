@@ -422,7 +422,8 @@ AudioMixer.prototype.getFreeChannel = function(soft)
 /** Проверка на то, поддерживает ли текущий браузер WebAudio */
 AudioMixer.isWebAudioSupport = function()
 {
-	return Boolean(window.AudioContext);
+	// return Boolean(window.AudioContext);
+	return false;
 };
 
 window.AudioContext = window.AudioContext || window.webkitAudioContext;
