@@ -1163,7 +1163,7 @@ function SoundsPreloader(sounds, endCallback, progressCallback)
  */
 SoundsPreloader.prototype.isMp3Support = function()
 {
-	return true;
+	return false;
 };
 
 /**
@@ -1172,7 +1172,7 @@ SoundsPreloader.prototype.isMp3Support = function()
  */
 SoundsPreloader.prototype.isWebAudio = function()
 {
-	return Boolean(window.AudioMixer) && AudioMixer.isWebAudioSupport();
+	return false;
 };
 
 /**
