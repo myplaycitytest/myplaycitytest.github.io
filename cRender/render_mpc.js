@@ -1188,7 +1188,7 @@ SoundsPreloader.prototype.load = function(sounds, endCallback, progressCallback)
 	if(endCallback) this.endCallback = endCallback;
 	if(progressCallback) this.progressCallback = progressCallback;
 	
-	if(!this.sounds || this.sounds.length < 1 || !this.isWebAudio())
+	if(true || !this.sounds || this.sounds.length < 1 || !this.isWebAudio())
 	{
 		if(this.endCallback) this.endCallback();
 		return;
