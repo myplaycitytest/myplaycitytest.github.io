@@ -1,0 +1,973 @@
+<?xml version="1.0"?>
+<root>
+   <s>
+    <text>ACTION</text>
+    <translate>Акция</translate>
+   </s>
+   <s>
+    <text>ACTION_LEFT_TIME</text>
+    <translate>Осталось: %02d:%02d:%02d</translate>
+   </s>
+   <s>
+    <text>ANSWER_ALL</text>
+    <translate>Отметить всех</translate>
+   </s>
+   <s>
+    <text>APP_WINDOW_TITLE</text>
+    <translate>Gem Legend</translate>
+   </s>
+   <s>
+    <text>ASK_FRIENDS</text>
+    <translate>Помощь друзей</translate>
+   </s>
+   <s>
+    <text>AWARD_TODAY</text>
+    <translate>Награда сегодня:</translate>
+   </s>
+   <s>
+    <text>AWARD_WINDOW_TITLE</text>
+    <translate>Награда</translate>
+   </s>
+   <s>
+    <text>BACK_TO_MAP</text>
+    <translate>Вернуться на карту</translate>
+   </s>
+   <s>
+    <text>BEST_RESULT</text>
+    <translate>Лучший результат:</translate>
+   </s>
+   <s>
+    <text>BUY_HEART_TITLE_1</text>
+    <translate>Закончились жизни</translate>
+   </s>
+   <s>
+    <text>BUY_HEART_TITLE_2</text>
+    <translate>Восстановить жизни</translate>
+   </s>
+   <s>
+    <text>BUY_HEART_TEXT</text>
+    <translate>Время до следующей жизни</translate>
+   </s>
+   <s>
+    <text>BUY_WINDOW_PROCESS_TITLE</text>
+    <translate>Покупаем</translate>
+   </s>
+   <s>
+    <text>BUY_WINDOW_PROCESS_TEXT</text>
+    <translate>Пожалуйста, подождите...</translate>
+   </s>
+   <s>
+    <text>BLOCKER_TEXT</text>
+    <translate>Проходи уровни, чтобы получить звезды</translate>
+   </s>
+   <s>
+    <text>BLOCKER_TITLE</text>
+    <translate>Нужно больше звезд!</translate>
+   </s>
+   <s>
+    <text>BUY_STATRS</text>
+    <translate>Купить звезды</translate>
+   </s>
+   <s>
+    <text>BUY_VALUTA_PRICE</text>
+    <translate>%.2f$</translate>
+   </s>
+   <s>
+    <text>BUY_MOVES_TITLE</text>
+    <translate>Перо Пэна!</translate>
+   </s>
+   <s>
+    <text>BUY_MOVES_DESC</text>
+    <translate>Добавить 5 дополнительных ходов.</translate>
+   </s>
+   <s>
+    <text>CLOSE</text>
+    <translate>Закрыть</translate>
+   </s>
+   <s>
+    <text>CONTINUE</text>
+    <translate>Продолжить</translate>
+   </s>
+   <s>
+    <text>DAY_1</text>
+    <translate>День 1</translate>
+   </s>
+   <s>
+    <text>DAY_2</text>
+    <translate>День 2</translate>
+   </s>
+   <s>
+    <text>DAY_3</text>
+    <translate>День 3</translate>
+   </s>
+   <s>
+    <text>DAY_4</text>
+    <translate>День 4</translate>
+   </s>
+   <s>
+    <text>DAY_5</text>
+    <translate>День 5</translate>
+   </s>
+   <s>
+    <text>END_LEVEL</text>
+    <translate>Закончить игру</translate>
+   </s>
+   <s>
+    <text>END_MOVES</text>
+    <translate>Закончились ходы.
+Не выполнены цели уровня</translate>
+   </s>
+   <s>
+    <text>EVERYDAY_BONUS</text>
+    <translate>Ежедневный бонус</translate>
+   </s>
+   <s>
+    <text>FAIL_LEVEL_TITLE</text>
+    <translate>Конец игры</translate>
+   </s>
+   <s>
+    <text>FB_BTN_LEFT_NOCONNECT</text>
+    <translate>Посмотрите, если ваши друзья обогнали вас! 
+Подключитесь к Facebook</translate>
+   </s>
+   <s>
+    <text>FALLING_TARGET</text>
+    <translate>Опустить алмаз: %d</translate>
+   </s>
+   <s>
+    <text>FULL_LIVES</text>
+    <translate>Все</translate>
+   </s>
+   <s>
+    <text>FAIL_SCORE</text>
+    <translate>Очки: %d</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_INVITE_TEXT</text>
+    <translate>Познакомься с легендами древнего Китая. Хаос пленил множество богов, и только настоящий герой может спасти мир от катастрофы.</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_LIFE_PRESENT</text>
+    <translate>Игрок 1 дарит Вам жизнь.</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_PRESENT_TITLE</text>
+    <translate>Помощь от друга.</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_BTN_TEXT_CONNECT</text>
+    <translate>Войти</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_BTN_TEXT_DISCONNECT</text>
+    <translate>Выйти</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_GAME_STATISTIC_PAGE</text>
+    <translate>Поделись своими достижениями!</translate>
+   </s>
+   <s>
+    <text>FREE_PRICE</text>
+    <translate>Бесплатно</translate>
+   </s>
+   <s>
+    <text>GIVE_UP</text>
+    <translate>Сдаться</translate>
+   </s>
+   <s>
+    <text>HELP_0</text>
+    <translate>Собирайте группы из 2-х и более фишек.</translate>
+   </s>
+   <s>
+    <text>HELP_1</text>
+    <translate>Группы из 5 и более фишек дают бонусы.</translate>
+   </s>
+   <s>
+    <text>HELP_2</text>
+    <translate>Если в группы из 5 и более фишек попадает бонус, то он усиливается.</translate>
+   </s>
+   <s>
+    <text>HELP_FOR_FRIEND_TITLE</text>
+    <translate>Подарить %s</translate>
+   </s>
+   <s>
+    <text>HELP_FOR_FRIEND_TEXT</text>
+    <translate>Несколько ходов</translate>
+   </s>
+   <s>
+    <text>HELP_FROM_FRIEND_TITLE</text>
+    <translate>Помощь от друга</translate>
+   </s>
+   <s>
+    <text>HELP_FROM_FRIEND_DESC_HEART</text>
+    <translate>%s шлет вам жизнь</translate>
+   </s>
+   <s>
+    <text>HELP_FROM_FRIEND_DESC_STEPS</text>
+    <translate>%s шлет вам ходы</translate>
+   </s>
+   <s>
+    <text>HELP_FRIENDS_TITLE</text>
+    <translate>Помоги друзьям</translate>
+   </s>
+   <s>
+    <text>INGAME_MENU_TITLE</text>
+    <translate>Меню</translate>
+   </s>
+   <s>
+    <text>INTERNET_CONNECTION_NOT_AVAIL</text>
+    <translate>Нет подключения к интернету!</translate>
+   </s>
+   <s>
+    <text>LEVEL</text>
+    <translate>Уровень</translate>
+   </s>
+   <s>
+    <text>LEVEL_PROGRESS</text>
+    <translate>Прогресс уровня</translate>
+   </s>
+   <s>
+    <text>LEVEL_SCORE_TITLE</text>
+    <translate>Мой счет:</translate>
+   </s>
+   <s>
+    <text>LEVEL_REPLAY</text>
+    <translate>Переиграть</translate>
+   </s>
+   <s>
+    <text>LEADERS</text>
+    <translate>Лидеры:</translate>
+   </s>
+   <s>
+    <text>LEADERS_TITLE</text>
+    <translate>Лидеры:</translate>
+   </s>
+   <s>
+    <text>LEVEL_COMPLETE_FEED_NAME</text>
+    <translate>Я прошел %d уровень в игре Gem Legend.</translate>
+   </s>
+   <s>
+    <text>LEVEL_COMPLETE_FEED_CAPTION</text>
+    <translate>Я прошел уровень, набрав %d очков.</translate>
+   </s>
+   <s>
+    <text>LEVEL_COMPLETE_FEED_DESCRIPTION</text>
+    <translate>Принимаю поздравления.</translate>
+   </s>
+   <s>
+    <text>LEVEL_FRIEND_PASSED_FEED_NAME</text>
+    <translate>Я опередил всех на %d уровне.</translate>
+   </s>
+   <s>
+    <text>LEVEL_FRIEND_PASSED_FEED_CAPTION</text>
+    <translate>Я набрал %d очков, это больше чем у тебя!</translate>
+   </s>
+   <s>
+    <text>LEVEL_FRIEND_PASSED_FEED_DESCRIPTION</text>
+    <translate>Теперь я новый лидер!</translate>
+   </s>
+   <s>
+    <text>LEVEL_FRIEND_PASSED_FEED_PIC_URL</text>
+    <translate>http://dl.dropboxusercontent.com/u/37985599/GreekGems_FB2.jpg</translate>
+   </s>
+   <s>
+    <text>LIMIT_TITLE_MOVES</text>
+    <translate>Ходы</translate>
+   </s>
+   <s>
+    <text>LIMIT_TITLE_TIME</text>
+    <translate>Время</translate>
+   </s>
+   <s>
+    <text>MESSAGES_TITLE</text>
+    <translate>Сообщения</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TITLE_ERROR1</text>
+    <translate>Внимание</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TEXT_ERROR1</text>
+    <translate>Покупка не произведена. Повторите попытку.</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TITLE_ERROR2</text>
+    <translate>Внимание</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TEXT_ERROR2</text>
+    <translate>Не удалось получить данные. Проверьте соединение с интернетом.</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TITLE_ERROR3</text>
+    <translate>Внимание</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TEXT_ERROR3</text>
+    <translate>Не удалось совершить покупку.</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TITLE_ERROR4</text>
+    <translate>Внимание</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TEXT_ERROR4</text>
+    <translate>Не удалось подключиться к Sina Weibo</translate>
+   </s>
+   <s>
+    <text>NEW_LEVELS_FAST</text>
+    <translate>Новые уровни скоро</translate>
+   </s>
+   <s>
+    <text>NOMOVES_TITLE</text>
+    <translate>Нет ходов</translate>
+   </s>
+   <s>
+    <text>NO_POSSIBLE_MOVES</text>
+    <translate>Нет возможных ходов</translate>
+   </s>
+   <s>
+    <text>NOTIME_TITLE</text>
+    <translate>Закончилось время</translate>
+   </s>
+   <s>
+    <text>OPTIONS_RESTORE</text>
+    <translate>Восстановить покупки</translate>
+   </s>
+   <s>
+    <text>OPTIONS_TITLE</text>
+    <translate>Настройки</translate>
+   </s>
+   <s>
+    <text>OPTION_FULL_SCREEN_TEXT</text>
+    <translate>На весь экран</translate>
+   </s>
+   <s>
+    <text>OPTION_GAME_CURSOR_TEXT</text>
+    <translate>Красивый курсор</translate>
+   </s>
+   <s>
+    <text>OUT_MAIN_MENU</text>
+    <translate>В главное меню</translate>
+   </s>
+   <s>
+    <text>PLAY</text>
+    <translate>Играть</translate>
+   </s>
+   <s>
+    <text>PRESENT_TITLE</text>
+    <translate>Добро пожаловать</translate>
+   </s>
+   <s>
+    <text>PROGRESS_LEVEL</text>
+    <translate>Прогресс уровня</translate>
+   </s>
+   <s>
+    <text>QUIT_LEVEL</text>
+    <translate>Завершить уровень?</translate>
+   </s>
+   <s>
+    <text>QUIT_LEVEL_TITLE</text>
+    <translate>Выйти</translate>
+   </s>
+   <s>
+    <text>QUIT_GAME</text>
+    <translate>Завершить игру?</translate>
+   </s>
+   <s>
+    <text>QUIT_GAME_TITLE</text>
+    <translate>Выйти из игры</translate>
+   </s>
+   <s>
+    <text>RATE_MESSAGE</text>
+    <translate>Рейтинг приложения</translate>
+   </s>
+   <s>
+    <text>RATE_BTN_NO</text>
+    <translate>Не хочу</translate>
+   </s>
+   <s>
+    <text>RATE_BTN_YES</text>
+    <translate>Оценить</translate>
+   </s>
+   <s>
+    <text>RATE_BTN_LATER</text>
+    <translate>Позже</translate>
+   </s>
+   <s>
+    <text>REPLAY_LEVEL</text>
+    <translate>Переиграть</translate>
+   </s>
+   <s>
+    <text>RESET_WINDOW_TITLE</text>
+    <translate>Сброс прогресса</translate>
+   </s>
+   <s>
+    <text>RESET_QUESTION_TEXT_0</text>
+    <translate>Готов сбросить прогресс?</translate>
+   </s>
+   <s>
+    <text>RESET_QUESTION_TEXT_1</text>
+    <translate>Достижения будут утеряны. Для сброса зажмите ОК на несколько секунд</translate>
+   </s>
+   <s>
+    <text>RECOVER_LIFE</text>
+    <translate>Восстановить жизнь</translate>
+   </s>
+   <s>
+    <text>SELECT_ALL</text>
+    <translate>Выбрать всех</translate>
+   </s>
+   <s>
+    <text>STRONG_WALLS_TARGET</text>
+    <translate>Удалить камни: %d</translate>
+   </s>
+   <s>
+    <text>SCORE_TARGET</text>
+    <translate>Набрать очки: %d</translate>
+   </s>
+   <s>
+    <text>SCORE</text>
+    <translate> + %d очков</translate>
+   </s>
+   <s>
+    <text>SKIP</text>
+    <translate>Пропустить</translate>
+   </s>
+   <s>
+    <text>SEND_MORE_STROKES</text>
+    <translate>Отправить дополнительные ходы</translate>
+   </s>
+   <s>
+    <text>SEND_LIFE_REQUEST_TEXT</text>
+    <translate>Прими это сердце. У меня их много.</translate>
+   </s>
+   <s>
+    <text>SEND_STEPS_REQUEST_TEXT</text>
+    <translate>Прими от меня дополнительные ходы.</translate>
+   </s>
+   <s>
+    <text>TARGETS_TITLE</text>
+    <translate>Цели уровня</translate>
+   </s>
+   <s>
+    <text>TEXT_FOR_WINDOWS_GIFTS</text>
+    <translate>Добро пожаловать обратно! Заходи в игру каждый день, чтобы получать подарки.</translate>
+   </s>
+   <s>
+    <text>TELL</text>
+    <translate>Рассказать друзьям:</translate>
+   </s>
+   <s>
+    <text>TILES_TARGET</text>
+    <translate>Удалить плитки: %d</translate>
+   </s>
+   <s>
+    <text>TITLE_SCORE</text>
+    <translate>Очки</translate>
+   </s>
+   <s>
+    <text>WIN_LEVEL_TITLE</text>
+    <translate>Уровень пройден</translate>
+   </s>
+   <s>
+    <text>WIN_HELP_TITLE</text>
+    <translate>Как играть</translate>
+   </s>
+   <s>
+    <text>WALLS_TARGET</text>
+    <translate>Удалить камни: %d</translate>
+   </s>
+   <s>
+    <text>WINDOW_GIFT_EACH_DAY_TITLE</text>
+    <translate>Подарок каждый день</translate>
+   </s>
+   <s>
+    <text>WINDOW_PAUSE_TITLE</text>
+    <translate>Пауза</translate>
+   </s>
+   <s>
+    <text>WINDOW_HELP_FRIENDS_TITLE</text>
+    <translate>Помощь друзьям</translate>
+   </s>
+   <s>
+    <text>WINDOW_SHOPPING_CURRENCY_TITLE</text>
+    <translate>Покупка валюты</translate>
+   </s>
+   <s>
+    <text>WINDOW_SHOPPING_STARS_TITLE</text>
+    <translate>Покупка звезд</translate>
+   </s>
+   <s>
+    <text>WINDOW_NOTICES_TITLE</text>
+    <translate>Уведомления</translate>
+   </s>
+   <s>
+    <text>WINDOW_MINUS_COLOR_TITLE</text>
+    <translate>Минус цвет</translate>
+   </s>
+   <s>
+    <text>WINDOW_END_GAMES_TITLE</text>
+    <translate>Конец игры</translate>
+   </s>
+   <s>
+    <text>WINDOW_NEW_LEADER_TITLE</text>
+    <translate>Новый лидер</translate>
+   </s>
+   <s>
+    <text>WINDOW_NEW_LEADER_TELL_FRIENDS</text>
+    <translate>Расскажи друзьям!</translate>
+   </s>
+   <s>
+    <text>WINDOW_NEW_LEADER_I_AM</text>
+    <translate>Лидер!</translate>
+   </s>
+   <s>
+    <text>WINDOW_NEW_LEADER_TELL</text>
+    <translate>Рассказать</translate>
+   </s>
+   <s>
+    <text>WINDOW_NOTICES_HELP_FROM_FRIEND</text>
+    <translate>Помощь друга</translate>
+   </s>
+   <s>
+    <text>WINDOW_NOTICES_PLEASE</text>
+    <translate>Просьба</translate>
+   </s>
+   <s>
+    <text>WINDOW_AUTHORS_TITLE</text>
+    <translate>Авторы</translate>
+   </s>
+   <s>
+    <text>WINDOW_MARK_ALL</text>
+    <translate>Отметить всех</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXCELLENT_TITLE</text>
+    <translate>Отлично</translate>
+   </s>
+   <s>
+    <text>WINDOW_SUCCESSFULLY_CONNECTED</text>
+    <translate>Удачное соединение с Facebook! Теперь весь прогресс синхронизируется с аккаунтом.</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXIT_TITLE</text>
+    <translate>Выход</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXIT_QUESTION_TITLE</text>
+    <translate>Выход</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXIT_QUESTION_TEXT</text>
+    <translate>Вы уверены, что хотите выйти?</translate>
+   </s>
+   <s>
+    <text>WINDOW_HOLIDAY_TITLE</text>
+    <translate>С Днем Св. Валентина</translate>
+   </s>
+   <s>
+    <text>WINDOW_HOLIDAY_TEXT</text>
+    <translate>Праздничное предложение</translate>
+   </s>
+   <s>
+    <text>WINDOW_HOLIDAY_BUY_BY</text>
+    <translate>Купить за</translate>
+   </s>
+   <s>
+    <text>WINDOW_PROGRESS_CONNECTION_ACCOUNT</text>
+    <translate>Прогресс игры будет синхронизирован как только появится соединение с аккаунтом.</translate>
+   </s>
+   <s>
+    <text>WINDOW_CLOSED_TITLE</text>
+    <translate>Закрыто</translate>
+   </s>
+   <s>
+    <text>WINDOW_FACEBOOK_CONNECTION_CLOSED</text>
+    <translate>Подключение к Facebook закрыто</translate>
+   </s>
+   <s>
+    <text>WINDOW_FACEBOOK_TITLE</text>
+    <translate>Facebook</translate>
+   </s>
+   <s>
+    <text>WINDOW_CONNECTION_FACEBOOK</text>
+    <translate>Подключаемся к Facebook...</translate>
+   </s>
+   <s>
+    <text>WINDOW_CONNECTION_FACEBOOK_TITLE</text>
+    <translate>FACEBOOK CONNECTION</translate>
+   </s>
+   <s>
+    <text>WINDOW_FAILED_CONNECTION_FACEBOOK</text>
+    <translate>Не удалось подключится к Facebook</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXIT_SYSTEM</text>
+    <translate>Выйти из Facebook</translate>
+   </s>
+   <s>
+    <text>WINDOW_STROKES</text>
+    <translate>Ходы</translate>
+   </s>
+   <s>
+    <text>WINDOW_TIME</text>
+    <translate>Время</translate>
+   </s>
+   <s>
+    <text>WINDOW_SCORE</text>
+    <translate>Очки</translate>
+   </s>
+   <s>
+    <text>WINDOW_INVITE_FRIEND</text>
+    <translate>Пригласить друга</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_1_LESSON_1</text>
+    <translate>Нажми на группу из двух и более одинаковых фишек, чтобы удалить их.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_1_LESSON_2</text>
+    <translate>Количество ходов на уровень ограничено.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_2_LESSON_1</text>
+    <translate>Удали группу из 5 и более фишек,чтобы получить бонус.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_2_LESSON_2</text>
+    <translate>Удалите фишки, чтобы бонус оказался в группе фишек схожего с ним цвета.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_2_LESSON_3</text>
+    <translate>Бонус «Бомба» при взрыве уничтожит все ближайшие камни и фишки.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_3_LESSON_1</text>
+    <translate>Если бонус попал в группу из 5 и более фишек, он становится супер-бонусом.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_4_LESSON_1</text>
+    <translate>Если в группе с фишками есть 2 и более бонусов, они складываются в супер-бонус.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_5_LESSON_1</text>
+    <translate>Плитки разбиваются, когда над ними удаляется фишка.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_5_LESSON_2</text>
+    <translate>Разбей все плитки, чтобы пройти уровень.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_10_LESSON_1</text>
+    <translate>Камни разбиваются, когда удаляется фишки рядом с ними.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_13_LESSON_1</text>
+    <translate>Опусти все алмазы вниз игрового поля, чтобы пройти уровень.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_21_LESSON_1</text>
+    <translate>Чтобы сломать цепь, нужно удалить фишку за ней.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_30_LESSON_1</text>
+    <translate>Цветной камень разбивается, если удалить фишку соответствующего цвета рядом с ним.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_50_LESSON_1</text>
+    <translate>Ледяная фишка замораживает все ближайшие фишки. Замороженные фишки можно освободить, сложив их в группу.</translate>
+   </s>
+   <s>
+    <text>BONUS_TUTORIAL_TEXT_1</text>
+    <translate>Бонус «Перо Пэна». Добавляет 5 дополнительных ходов на уровень.</translate>
+   </s>
+   <s>
+    <text>BONUS_TUTORIAL_TEXT_2</text>
+    <translate>Бонус «Волшебный веер». Убирает фишки одного цвета на уровне.</translate>
+   </s>
+   <s>
+    <text>BONUS_TUTORIAL_TEXT_3</text>
+    <translate>Бонус «Связка с фейерверками». Добавляет 3 бомбы на игровое поле.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_COMET_LESSON_1</text>
+    <translate>Доступен новый бонус «Вихрь белого тигра». Нажмите на иконку, чтобы приобрести его.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_COMET_LESSON_2</text>
+    <translate>Активируйте бонус, нажав на иконку.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_GROUP_LESSON_1</text>
+    <translate>Доступен новый бонус «Благословение лазурного дракона». Нажмите на иконку, чтобы приобрести его.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_GROUP_LESSON_2</text>
+    <translate>Активируйте бонус, нажав на иконку.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_LIGHT_LESSON_1</text>
+    <translate>Доступен новый бонус «Дыхание желтого дракона». Нажмите на иконку, чтобы приобрести его.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_LIGHT_LESSON_2</text>
+    <translate>Активируйте бонус, нажав на иконку.</translate>
+   </s>
+   <s>
+    <text>DIALOG_01_AURA_1</text>
+    <translate>Приветствую тебя, незнакомец! Твое появление наполняет наши сердца надеждой.</translate>
+   </s>
+   <s>
+    <text>DIALOG_01_AURA_2</text>
+    <translate>Обитель богов пожирает древний Хаос и даже я, всевидящая богиня ветра, бессильна справиться с ним. Все вокруг обратится в камень, если не явится спаситель.</translate>
+   </s>
+   <s>
+    <text>DIALOG_01_AURA_3</text>
+    <translate>Оракул сказал, что мы узнаем героя по артефакту в его руках. Сейчас артефакт находится под охраной богинь времени в том храме за холмом.</translate>
+   </s>
+   <s>
+    <text>DIALOG_01_AURA_4</text>
+    <translate>Пойдем же за ним прямо сейчас! Возможно, именно ты послан спасти нас.</translate>
+   </s>
+   <s>
+    <text>DIALOG_02_AURA_1</text>
+    <translate>Ты сумел дойти до храма! Но отдадут ли богини тебе артефакт или испепелят на месте, возмущенные твоей дерзостью?</translate>
+   </s>
+   <s>
+    <text>DIALOG_02_AURA_2</text>
+    <translate>Боги благоволят тебе! Однако только у избранного артефакт может проявить себя. В чужих руках он превратится в камень. Скоро мы узнаем, сможешь ли ты оживить древнюю силу.</translate>
+   </s>
+   <s>
+    <text>DIALOG_02_AURA_3</text>
+    <translate>Теперь артефакт будет послушен только твоим рукам.</translate>
+   </s>
+   <s>
+    <text>DIALOG_03_AURA_1</text>
+    <translate>Сейчас мы узнаем, о тебе ли говорил оракул! Коснись бога костра, и пусть артефакт или разрушит его оковы, или сам обратится в камень!</translate>
+   </s>
+   <s>
+    <text>DIALOG_03_AURA_2</text>
+    <translate>Ты спас бога костра! Но теперь артефакт, наша последняя надежда, разрушен.</translate>
+   </s>
+   <s>
+    <text>DIALOG_03_GEFEST_3</text>
+    <translate>Это не конец, богиня ветра. Просто Хаос оказался сильнее, чем мы думали. К счастью, первым вы освободили того, кто сможет починить артефакт. Правда для этого мне понадобятся некоторые элементы.</translate>
+   </s>
+   <s>
+    <text>DIALOG_03_GEFEST_4</text>
+    <translate>Хорошо, пока я буду разжигать в печи, принесите мне всё необходимое для работы.</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_AURA_1</text>
+    <translate>Я все больше верю в то, что перед нами предсказанный герой. Благодаря твоей находчивости мы нашли все нужные элементы.</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_GEFEST_2</text>
+    <translate>Предсказание сбывается! А теперь дайте же мне артефакт.</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_AURA_3</text>
+    <translate>Никто не сравнится с богом костра в кузнечном деле! Можем ли мы как-то отблагодарить тебя за работу?</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_GEFEST_4</text>
+    <translate>Мое сердце разрывается от тревоги за мою супругу, богиню любви. Скорее всего, Хаос также заточил ее в камень и она ждет не дождется, пока ее спасут.</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_GEFEST_5</text>
+    <translate>Но моя хромота не позволяет мне немедленно отправиться на поиски!</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_AURA_6</text>
+    <translate>Мы найдем ее, чего бы это нам не стоило.</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_MOVES_TITLE</text>
+    <translate>Перо Пэна</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_MOVES_DESC</text>
+    <translate>Добавляет 5 дополнительных ходов на уровень.</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_TIME_TITLE</text>
+    <translate>Дар Тай-Суя</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_TIME_DESC</text>
+    <translate>Добавляет 15 дополнительных секунд на уровень.</translate>
+   </s>
+   <s>
+    <text>BOOM_BONUS_TITLE</text>
+    <translate>Связка с фейерверками</translate>
+   </s>
+   <s>
+    <text>BOOM_BONUS_DESC</text>
+    <translate>Добавляет 3 бомбы на игровое поле.</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_COLOR_TITLE</text>
+    <translate>Волшебный веер</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_COLOR_DESC</text>
+    <translate>Убирает фишки одного цвета на игровом поле в начале уровня.</translate>
+   </s>
+   <s>
+    <text>BONUS_ARTEMIDA_TITLE</text>
+    <translate>Удар черной черепахи</translate>
+   </s>
+   <s>
+    <text>BONUS_ARTEMIDA_DESC</text>
+    <translate>Удаляет несколько фишек на игровом поле.</translate>
+   </s>
+   <s>
+    <text>BONUS_AFRODITA_TITLE</text>
+    <translate>Благословение лазурного дракона</translate>
+   </s>
+   <s>
+    <text>BONUS_AFRODITA_DESC</text>
+    <translate>Перемешивает фишки на игровом поле.</translate>
+   </s>
+   <s>
+    <text>BONUS_ARES_TITLE</text>
+    <translate>Полет красной птицы</translate>
+   </s>
+   <s>
+    <text>BONUS_ARES_DESC</text>
+    <translate>Активирует все бонусы на игровом поле.</translate>
+   </s>
+   <s>
+    <text>BONUS_GEFEST_TITLE</text>
+    <translate>Вихрь белого тигра</translate>
+   </s>
+   <s>
+    <text>BONUS_GEFEST_DESC</text>
+    <translate>Удаляет несколько столбцов фишек на игровом поле.</translate>
+   </s>
+   <s>
+    <text>BONUS_ZEUS_TITLE</text>
+    <translate>Дыхание желтого дракона</translate>
+   </s>
+   <s>
+    <text>BONUS_ZEUS_DESC</text>
+    <translate>Удаляет несколько строк фишек на игровом поле.</translate>
+   </s>
+   <s>
+    <text>AUTHOR_PROJECT_MANAGER</text>
+    <translate>Руководитель проекта</translate>
+   </s>
+   <s>
+    <text>AUTHOR_1</text>
+    <translate>Максим Калюжный</translate>
+   </s>
+   <s>
+    <text>AUTHOR_GAME_DESIGN</text>
+    <translate>Гейм-дизайн</translate>
+   </s>
+   <s>
+    <text>AUTHOR_2</text>
+    <translate>Данил Прохоренко</translate>
+   </s>
+   <s>
+    <text>AUTHOR_LEAD_PROGRAMMER</text>
+    <translate>Ведущий программист</translate>
+   </s>
+   <s>
+    <text>AUTHOR_3</text>
+    <translate>Михаил Остапенко</translate>
+   </s>
+   <s>
+    <text>AUTHOR_PROGRAMMING</text>
+    <translate>Программирование</translate>
+   </s>
+   <s>
+    <text>AUTHOR_4</text>
+    <translate>Евгений Ходенко</translate>
+   </s>
+   <s>
+    <text>AUTHOR_5</text>
+    <translate>Игорь Симоненко</translate>
+   </s>
+   <s>
+    <text>AUTHOR_LEAD_DESIGNER</text>
+    <translate>Ведущий дизайнер</translate>
+   </s>
+   <s>
+    <text>AUTHOR_6</text>
+    <translate>Александра Красникова</translate>
+   </s>
+   <s>
+    <text>AUTHOR_GRAPHICS</text>
+    <translate>Графика</translate>
+   </s>
+   <s>
+    <text>AUTHOR_7</text>
+    <translate>Артем Чебоха</translate>
+   </s>
+   <s>
+    <text>AUTHOR_8</text>
+    <translate>Дмитрий Щеткин</translate>
+   </s>
+   <s>
+    <text>AUTHOR_9</text>
+    <translate>Сергей Орлянский</translate>
+   </s>
+   <s>
+    <text>AUTHOR_10</text>
+    <translate>Станислав Минченко</translate>
+   </s>
+   <s>
+    <text>AUTHOR_11</text>
+    <translate>Юрий Герасимов</translate>
+   </s>
+   <s>
+    <text>AUTHOR_12</text>
+    <translate>Наталья Судорженко</translate>
+   </s>
+   <s>
+    <text>AUTHOR_13</text>
+    <translate>Александра Садыкова</translate>
+   </s>
+   <s>
+    <text>AUTHOR_14</text>
+    <translate>Анна Кротова</translate>
+   </s>
+   <s>
+    <text>AUTHOR_15</text>
+    <translate>Евгения Потрохова</translate>
+   </s>
+   <s>
+    <text>AUTHOR_TEXT</text>
+    <translate>Текст</translate>
+   </s>
+   <s>
+    <text>AUTHOR_16</text>
+    <translate>Юлия Стрельская</translate>
+   </s>
+   <s>
+    <text>AUTHOR_ANIMATION_AND_FX</text>
+    <translate>Анимация и спецэффекты</translate>
+   </s>
+   <s>
+    <text>AUTHOR_17</text>
+    <translate>Павел Калайтан</translate>
+   </s>
+   <s>
+    <text>AUTHOR_18</text>
+    <translate>Виталий Красников</translate>
+   </s>
+   <s>
+    <text>AUTHOR_MOVIES</text>
+    <translate>Видеоролики</translate>
+   </s>
+   <s>
+    <text>AUTHOR_19</text>
+    <translate>Роман Черных</translate>
+   </s>
+   <s>
+    <text>AUTHOR_PUBLISHER</text>
+    <translate>Издатель 8floor</translate>
+   </s>
+ </root>

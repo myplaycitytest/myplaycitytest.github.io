@@ -1,0 +1,966 @@
+<?xml version="1.0"?>
+<root>
+   <s>
+    <text>ACTION</text>
+    <translate>Action</translate>
+   </s>
+   <s>
+    <text>ACTION_LEFT_TIME</text>
+    <translate>Remaining: %02d:%02d:%02d</translate>
+   </s>
+   <s>
+    <text>ANSWER_ALL</text>
+    <translate>Mark all</translate>
+   </s>
+   <s>
+    <text>APP_WINDOW_TITLE</text>
+    <translate>China Gems</translate>
+   </s>
+   <s>
+    <text>ASK_FRIENDS</text>
+    <translate>Help friends</translate>
+   </s>
+   <s>
+    <text>AWARD_TODAY</text>
+    <translate>Award today:</translate>
+   </s>
+   <s>
+    <text>AWARD_WINDOW_TITLE</text>
+    <translate>Award</translate>
+   </s>
+    <s>
+        <text>BOOM_BONUS_TITLE</text>
+        <translate>Bundle of Fireworks</translate>
+    </s>
+    <s>
+        <text>BOOM_BONUS_DESC</text>
+        <translate>Puts 3 bombs into play.</translate>
+    </s>
+
+
+
+
+    <s>
+    <text>BONUS_ARTEMIDA_TITLE</text>
+    <translate>Black Turtle Strike</translate>
+    </s>
+    <s>
+    <text>BONUS_ARTEMIDA_DESC</text>
+    <translate>Removes several chips from play.</translate>
+    </s>
+     <s>
+    <text>BONUS_ARES_TITLE</text>
+    <translate>Red Bird's Flight</translate>
+    </s>
+    <s>
+    <text>BONUS_ARES_DESC</text>
+    <translate>Activates all bonuses in play.</translate>
+    </s>
+
+
+
+
+
+   <s>
+    <text>BACK_TO_MAP</text>
+    <translate>Back to map</translate>
+   </s>
+   <s>
+    <text>BEST_RESULT</text>
+    <translate>Best result:</translate>
+   </s>
+   <s>
+    <text>BUY_HEART_TITLE_1</text>
+    <translate>Life ended</translate>
+   </s>
+   <s>
+    <text>BUY_HEART_TITLE_2</text>
+    <translate>Restore lifes</translate>
+   </s>
+   <s>
+    <text>BUY_HEART_TEXT</text>
+    <translate>Time to new life</translate>
+   </s>
+   <s>
+    <text>BUY_WINDOW_PROCESS_TITLE</text>
+    <translate>Purchases</translate>
+   </s>
+   <s>
+    <text>BUY_WINDOW_PROCESS_TEXT</text>
+    <translate>Please wait ...</translate>
+   </s>
+   <s>
+    <text>BLOCKER_TEXT</text>
+    <translate>Complete levels to get star</translate>
+   </s>
+   <s>
+    <text>BLOCKER_TITLE</text>
+    <translate>Need more stars!</translate>
+   </s>
+   <s>
+    <text>BUY_STATRS</text>
+    <translate>Buy star</translate>
+   </s>
+   <s>
+    <text>BUY_VALUTA_PRICE</text>
+    <translate>%.2f$</translate>
+   </s>
+   <s>
+    <text>CLOSE</text>
+    <translate>Close</translate>
+   </s>
+   <s>
+    <text>CONTINUE</text>
+    <translate>Proceed</translate>
+   </s>
+   <s>
+    <text>DAY_1</text>
+    <translate>Day 1</translate>
+   </s>
+   <s>
+    <text>DAY_2</text>
+    <translate>Day 2</translate>
+   </s>
+   <s>
+    <text>DAY_3</text>
+    <translate>Day 3</translate>
+   </s>
+   <s>
+    <text>DAY_4</text>
+    <translate>Day 4</translate>
+   </s>
+   <s>
+    <text>DAY_5</text>
+    <translate>Day 5</translate>
+   </s>
+   <s>
+    <text>END_LEVEL</text>
+    <translate>Finish the game</translate>
+   </s>
+   <s>
+    <text>END_MOVES</text>
+    <translate>Run out of moves.
+Level goals are not met</translate>
+   </s>
+   <s>
+    <text>FAIL_LEVEL_TITLE</text>
+    <translate>End of game</translate>
+   </s>
+   <s>
+    <text>FB_BTN_LEFT_NOCONNECT</text>
+    <translate>See how your friends are doing! 
+Connect to Facebook!</translate>
+   </s>
+   <s>
+    <text>FALLING_TARGET</text>
+    <translate>Lower amphora: %d</translate>
+   </s>
+   <s>
+    <text>FULL_LIVES</text>
+    <translate>All</translate>
+   </s>
+   <s>
+    <text>FAIL_SCORE</text>
+    <translate>Points: %d</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_INVITE_TEXT</text>
+    <translate>Meet the legends of ancient Greece. Chaos has captivated the Olympian gods, and only a true hero can save the world from disaster.</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_BTN_TEXT_CONNECT</text>
+    <translate>Sign in</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_BTN_TEXT_DISCONNECT</text>
+    <translate>Log out</translate>
+   </s>
+   <s>
+    <text>FACEBOOK_GAME_STATISTIC_PAGE</text>
+    <translate>Share your achievements!</translate>
+   </s>
+   <s>
+    <text>FREE_PRICE</text>
+    <translate>Free price</translate>
+   </s>
+   <s>
+    <text>GIVE_UP</text>
+    <translate>Give up</translate>
+   </s>
+   <s>
+    <text>HELP_FOR_FRIEND_TITLE</text>
+    <translate>Give %s</translate>
+   </s>
+   <s>
+    <text>HELP_FOR_FRIEND_TEXT</text>
+    <translate>Several moves</translate>
+   </s>
+   <s>
+    <text>HELP_FROM_FRIEND_TITLE</text>
+    <translate>Help from a friend</translate>
+   </s>
+   <s>
+    <text>HELP_FROM_FRIEND_DESC_HEART</text>
+    <translate>%s sends you life</translate>
+   </s>
+   <s>
+    <text>HELP_FROM_FRIEND_DESC_STEPS</text>
+    <translate>%s sends you the moves</translate>
+   </s>
+   <s>
+    <text>HELP_FRIENDS_TITLE</text>
+    <translate>Help friends</translate>
+   </s>
+   <s>
+    <text>INGAME_MENU_TITLE</text>
+    <translate>Menu</translate>
+   </s>
+   <s>
+    <text>INTERNET_CONNECTION_NOT_AVAIL</text>
+    <translate>No connection to the internet!</translate>
+   </s>
+   <s>
+    <text>LEVEL</text>
+    <translate>Level</translate>
+   </s>
+   <s>
+    <text>LEVEL_PROGRESS</text>
+    <translate>Progress level</translate>
+   </s>
+   <s>
+    <text>LEVEL_SCORE_TITLE</text>
+    <translate>My score:</translate>
+   </s>
+   <s>
+    <text>LEVEL_REPLAY</text>
+    <translate>Replay level</translate>
+   </s>
+   <s>
+    <text>LEADERS</text>
+    <translate>Leaders:</translate>
+   </s>
+   <s>
+    <text>LEADERS_TITLE</text>
+    <translate>Leaders:</translate>
+   </s>
+   <s>
+    <text>LEVEL_COMPLETE_FEED_NAME</text>
+    <translate>I passed %d level in the game China Gems.</translate>
+   </s>
+   <s>
+    <text>LEVEL_COMPLETE_FEED_CAPTION</text>
+    <translate>I passed level, typing% d points.</translate>
+   </s>
+   <s>
+    <text>LEVEL_COMPLETE_FEED_DESCRIPTION</text>
+    <translate>Accept congratulations.</translate>
+   </s>
+   <s>
+    <text>LEVEL_FRIEND_PASSED_FEED_NAME</text>
+    <translate>I beat everyone to level %d.</translate>
+   </s>
+   <s>
+    <text>LEVEL_FRIEND_PASSED_FEED_CAPTION</text>
+    <translate>I scored% d points, it's more than you!</translate>
+   </s>
+   <s>
+    <text>LEVEL_FRIEND_PASSED_FEED_DESCRIPTION</text>
+    <translate>Now I have a new leader!</translate>
+   </s>
+   <s>
+    <text>LEVEL_FRIEND_PASSED_FEED_PIC_URL</text>
+    <translate>http://dl.dropboxusercontent.com/u/37985599/GreekGems_FB2.jpg</translate>
+   </s>
+   <s>
+    <text>LIMIT_TITLE_MOVES</text>
+    <translate>Moves</translate>
+   </s>
+   <s>
+    <text>LIMIT_TITLE_TIME</text>
+    <translate>Time</translate>
+   </s>
+   <s>
+    <text>MESSAGES_TITLE</text>
+    <translate>Messages</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TITLE_ERROR1</text>
+    <translate>Attention</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TEXT_ERROR1</text>
+    <translate>Purchase is not made . Please try again.</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TITLE_ERROR2</text>
+    <translate>Attention</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TEXT_ERROR2</text>
+    <translate>Failed to retrieve data. Check your internet connection .</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TITLE_ERROR3</text>
+    <translate>Attention</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TEXT_ERROR3</text>
+    <translate>Unable to make a purchase.</translate>
+   </s>
+   <s>
+    <text>MSG_WINDOW_TITLE_ERROR4</text>
+    <translate>Attention</translate>
+   </s>
+   <s>
+    <text>NEW_LEVELS_FAST</text>
+    <translate>New levels soon</translate>
+   </s>
+   <s>
+    <text>NOMOVES_TITLE</text>
+    <translate>No moves</translate>
+   </s>
+   <s>
+    <text>NOTIME_TITLE</text>
+    <translate>Time runs</translate>
+   </s>
+   <s>
+    <text>OPTIONS_RESTORE</text>
+    <translate>restore purchase</translate>
+   </s>
+   <s>
+    <text>OPTIONS_TITLE</text>
+    <translate>Options</translate>
+   </s>
+   <s>
+    <text>OPTION_FULL_SCREEN_TEXT</text>
+    <translate>Fullscreen</translate>
+   </s>
+   <s>
+    <text>OPTION_GAME_CURSOR_TEXT</text>
+    <translate>Beautiful cursor</translate>
+   </s>
+   <s>
+    <text>OUT_MAIN_MENU</text>
+    <translate>Back to main menu</translate>
+   </s>
+   <s>
+    <text>PLAY</text>
+    <translate>Play</translate>
+   </s>
+   <s>
+    <text>PRESENT_TITLE</text>
+    <translate>Welcome</translate>
+   </s>
+   <s>
+    <text>PROGRESS_LEVEL</text>
+    <translate>Progress level</translate>
+   </s>
+   <s>
+    <text>QUIT_LEVEL</text>
+    <translate>Do you want to quit?</translate>
+   </s>
+   <s>
+    <text>QUIT_LEVEL_TITLE</text>
+    <translate>Quit level</translate>
+   </s>
+   <s>
+    <text>QUIT_GAME</text>
+    <translate>Do you want to quit?</translate>
+   </s>
+   <s>
+    <text>QUIT_GAME_TITLE</text>
+    <translate>Quit game</translate>
+   </s>
+   <s>
+    <text>RATE_MESSAGE</text>
+    <translate>Rating application</translate>
+   </s>
+   <s>
+    <text>RATE_BTN_NO</text>
+    <translate>I do not want</translate>
+   </s>
+   <s>
+    <text>RATE_BTN_YES</text>
+    <translate>Rate</translate>
+   </s>
+   <s>
+    <text>RATE_BTN_LATER</text>
+    <translate>Later</translate>
+   </s>
+   <s>
+    <text>REPLAY_LEVEL</text>
+    <translate>Replay</translate>
+   </s>
+   <s>
+    <text>RESET_WINDOW_TITLE</text>
+    <translate>Reset progress</translate>
+   </s>
+   <s>
+    <text>RESET_QUESTION_TEXT_0</text>
+    <translate>Ready to lose progress?</translate>
+   </s>
+   <s>
+    <text>RESET_QUESTION_TEXT_1</text>
+    <translate>Achievements will be lost. To reset, hold OK for a few seconds</translate>
+   </s>
+   <s>
+    <text>RECOVER_LIFE</text>
+    <translate>restore life</translate>
+   </s>
+   <s>
+    <text>SELECT_ALL</text>
+    <translate>Select all</translate>
+   </s>
+   <s>
+    <text>STRONG_WALLS_TARGET</text>
+    <translate>Remove stones: %d</translate>
+   </s>
+   <s>
+    <text>SCORE_TARGET</text>
+    <translate>Score points: %d</translate>
+   </s>
+   <s>
+    <text>SCORE</text>
+    <translate>#ERROR!</translate>
+   </s>
+   <s>
+    <text>SKIP</text>
+    <translate>Skip</translate>
+   </s>
+   <s>
+    <text>SEND_MORE_STROKES</text>
+    <translate>Send additional moves</translate>
+   </s>
+   <s>
+    <text>SEND_LIFE_REQUEST_TEXT</text>
+    <translate>Take this heart. I have plenty .</translate>
+   </s>
+   <s>
+    <text>SEND_STEPS_REQUEST_TEXT</text>
+    <translate>Take me for more moves.</translate>
+   </s>
+   <s>
+    <text>TARGETS_TITLE</text>
+    <translate>Level goals</translate>
+   </s>
+   <s>
+    <text>TEXT_FOR_WINDOWS_GIFTS</text>
+    <translate>Welcome back ! Come to the game every day to get gifts .</translate>
+   </s>
+   <s>
+    <text>TELL</text>
+    <translate>Share with friends:</translate>
+   </s>
+   <s>
+    <text>TILES_TARGET</text>
+    <translate>Remove the tiles: %d</translate>
+   </s>
+   <s>
+    <text>TITLE_SCORE</text>
+    <translate>Points</translate>
+   </s>
+   <s>
+    <text>WIN_LEVEL_TITLE</text>
+    <translate>Level is passed</translate>
+   </s>
+   <s>
+    <text>WIN_HELP_TITLE</text>
+    <translate>How to play</translate>
+   </s>
+   <s>
+    <text>WALLS_TARGET</text>
+    <translate>Remove stones: %d</translate>
+   </s>
+   <s>
+    <text>WINDOW_GIFT_EACH_DAY_TITLE</text>
+    <translate>Gift every day</translate>
+   </s>
+   <s>
+    <text>WINDOW_PAUSE_TITLE</text>
+    <translate>Pause</translate>
+   </s>
+   <s>
+    <text>WINDOW_HELP_FRIENDS_TITLE</text>
+    <translate>Help friends</translate>
+   </s>
+   <s>
+    <text>WINDOW_SHOPPING_CURRENCY_TITLE</text>
+    <translate>Purchase of currency</translate>
+   </s>
+   <s>
+    <text>WINDOW_SHOPPING_STARS_TITLE</text>
+    <translate>Purchase stars</translate>
+   </s>
+   <s>
+    <text>WINDOW_NOTICES_TITLE</text>
+    <translate>Notifications</translate>
+   </s>
+   <s>
+    <text>WINDOW_MINUS_COLOR_TITLE</text>
+    <translate>Minus numbers</translate>
+   </s>
+   <s>
+    <text>WINDOW_END_GAMES_TITLE</text>
+    <translate>End of game</translate>
+   </s>
+   <s>
+    <text>WINDOW_NEW_LEADER_TITLE</text>
+    <translate>The new leader</translate>
+   </s>
+   <s>
+    <text>WINDOW_NEW_LEADER_TELL_FRIENDS</text>
+    <translate>Tell a friend!</translate>
+   </s>
+   <s>
+    <text>WINDOW_NEW_LEADER_I_AM</text>
+    <translate>Leader!</translate>
+   </s>
+   <s>
+    <text>WINDOW_NEW_LEADER_TELL</text>
+    <translate>Share</translate>
+   </s>
+   <s>
+    <text>WINDOW_NOTICES_HELP_FROM_FRIEND</text>
+    <translate>Help a friend</translate>
+   </s>
+   <s>
+    <text>WINDOW_NOTICES_PLEASE</text>
+    <translate>Request</translate>
+   </s>
+   <s>
+    <text>WINDOW_AUTHORS_TITLE</text>
+    <translate>Authors</translate>
+   </s>
+   <s>
+    <text>WINDOW_MARK_ALL</text>
+    <translate>Mark all</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXCELLENT_TITLE</text>
+    <translate>Excellent</translate>
+   </s>
+   <s>
+    <text>WINDOW_SUCCESSFULLY_CONNECTED</text>
+    <translate>Successful connection to Facebook! Now the whole progress is synchronized with the account.</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXIT_TITLE</text>
+    <translate>Exit</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXIT_QUESTION_TITLE</text>
+    <translate>Exit</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXIT_QUESTION_TEXT</text>
+    <translate>Are you sure you want to quit?</translate>
+   </s>
+   <s>
+    <text>WINDOW_PROGRESS_CONNECTION_ACCOUNT</text>
+    <translate>Game progress will be synchronized as soon as the connection with the account.</translate>
+   </s>
+   <s>
+    <text>WINDOW_CLOSED_TITLE</text>
+    <translate>Closed</translate>
+   </s>
+   <s>
+    <text>WINDOW_FACEBOOK_CONNECTION_CLOSED</text>
+    <translate>Connect to Facebook closed</translate>
+   </s>
+   <s>
+    <text>WINDOW_FACEBOOK_TITLE</text>
+    <translate>Facebook</translate>
+   </s>
+   <s>
+    <text>WINDOW_CONNECTION_FACEBOOK</text>
+    <translate>Connect to Facebook ...</translate>
+   </s>
+   <s>
+    <text>WINDOW_CONNECTION_FACEBOOK_TITLE</text>
+    <translate>FACEBOOK CONNECTION</translate>
+   </s>
+   <s>
+    <text>WINDOW_FAILED_CONNECTION_FACEBOOK</text>
+    <translate>Failed to connect to Facebook</translate>
+   </s>
+   <s>
+    <text>WINDOW_EXIT_SYSTEM</text>
+    <translate>Log out of Facebook</translate>
+   </s>
+   <s>
+    <text>WINDOW_STROKES</text>
+    <translate>Moves</translate>
+   </s>
+   <s>
+    <text>WINDOW_TIME</text>
+    <translate>Time</translate>
+   </s>
+   <s>
+    <text>WINDOW_SCORE</text>
+    <translate>Glasses</translate>
+   </s>
+   <s>
+    <text>WINDOW_INVITE_FRIEND</text>
+    <translate>Invite a friend</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_1_LESSON_1</text>
+    <translate>Click on a group of two or more identical tiles to remove them .</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_1_LESSON_2</text>
+    <translate>Number of moves is limited to the level .</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_2_LESSON_1</text>
+    <translate>Daring group of 5 or more chips to get the bonus.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_2_LESSON_2</text>
+    <translate>To bonus activated , it must get into a group of chips with him one color .</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_2_LESSON_3</text>
+    <translate>The Bomb bonus destroys all nearby stones and chips when it explodes.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_3_LESSON_1</text>
+    <translate>If the bonus was in a group of 5 or more chips , it becomes a super- bonus.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_4_LESSON_1</text>
+    <translate>If a group with chips have 2 or more bonuses , they form a super bonus .</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_5_LESSON_1</text>
+    <translate>Tiles broken when over them removed chip. Shatter all the tiles to complete the level .</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_5_LESSON_2</text>
+    <translate>Break all the plates to complete the level.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_10_LESSON_1</text>
+    <translate>Stones are broken when removed chips next to them.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_13_LESSON_1</text>
+    <translate>Lower all the vases to the bottom to complete the level.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_21_LESSON_1</text>
+    <translate>To break the chain , you must remove the chip for it.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_30_LESSON_1</text>
+    <translate>Color stone is broken, if you remove the chip corresponding color next to it.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_50_LESSON_1</text>
+    <translate>Chip ice freezes all coming chips. Frozen chips can be released, adding them to the group.</translate>
+   </s>
+   <s>
+    <text>BONUS_TUTORIAL_TEXT_1</text>
+    <translate>Bonus "Sandals of Hermes." Adds 5 additional strokes per level.</translate>
+   </s>
+   <s>
+    <text>BONUS_TUTORIAL_TEXT_2</text>
+    <translate>Bonus "Power of Aphrodite." Removes chips of the same color on the level.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_COMET_LESSON_1</text>
+    <translate>Bonus "Strike Vulcan." Removes multiple columns of chips on the playing field.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_COMET_LESSON_2</text>
+    <translate>Activate the bonus by tapping the icon.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_GROUP_LESSON_1</text>
+    <translate>Bonus "Enchantment Athens." Combines chips by color groups.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_GROUP_LESSON_2</text>
+    <translate>Activate the bonus by tapping the icon.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_LIGHT_LESSON_1</text>
+    <translate>Bonus "Wrath of Zeus." Removes multiple rows of chips on the playing field.</translate>
+   </s>
+   <s>
+    <text>TUTORIAL_LIGHT_LESSON_2</text>
+    <translate>Activate the bonus by tapping the icon.</translate>
+   </s>
+   <s>
+    <text>DIALOG_01_AURA_1</text>
+    <translate>Greetings, stranger ! Your appearance fills our hearts with hope.</translate>
+   </s>
+   <s>
+    <text>DIALOG_01_AURA_2</text>
+    <translate>Olympus Divine devours ancient Chaos and even I , the all-seeing Aura, is powerless to deal with it . Everything will turn to stone , if not will be the savior .</translate>
+   </s>
+   <s>
+    <text>DIALOG_01_AURA_3</text>
+    <translate>Oracle said that we learn hero artifact in his hands. Now artifact is guarded goddesses time in that temple over the hill .</translate>
+   </s>
+   <s>
+    <text>DIALOG_01_AURA_4</text>
+    <translate>Let's go for it right now ! Perhaps it is you have been sent to save us .</translate>
+   </s>
+   <s>
+    <text>DIALOG_02_AURA_1</text>
+    <translate>You managed to reach the temple! But if the goddess will give you an artifact or incinerated on-site perturbed your insolence ?</translate>
+   </s>
+   <s>
+    <text>DIALOG_02_AURA_2</text>
+    <translate>The gods favor you! However, only favorite artifact can manifest itself . In the wrong hands , he will turn to stone . Soon we will know if you can revive the ancient power .</translate>
+   </s>
+   <s>
+    <text>DIALOG_02_AURA_3</text>
+    <translate>Now artifact will only obey your hands .</translate>
+   </s>
+   <s>
+    <text>DIALOG_03_AURA_1</text>
+    <translate>Now we learn about you my saying oracle ! Touch of Hephaestus, and let artifact or destroy his shackles , or he will turn to stone!</translate>
+   </s>
+   <s>
+    <text>DIALOG_03_AURA_2</text>
+    <translate>You saved Hephaestus ! But now an artifact , our last hope destroyed.</translate>
+   </s>
+   <s>
+    <text>DIALOG_03_GEFEST_3</text>
+    <translate>This is not the end , the Aura . Just Chaos was stronger than we thought . Fortunately, you first released for someone who can repair the artifact. True to this, I need some items.</translate>
+   </s>
+   <s>
+    <text>DIALOG_03_GEFEST_4</text>
+    <translate>I 'll light a fire in the oven , and you still Obtain me everything I needed to work .</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_AURA_1</text>
+    <translate>More and more I believe that this is a predicted character . Thanks to your resourcefulness we found all the necessary elements .</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_GEFEST_2</text>
+    <translate>Prediction comes true ! Now give me the same artifact.</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_AURA_3</text>
+    <translate>No one compares to you in smithing , Hephaestus ! Can we somehow thank you for a job?</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_GEFEST_4</text>
+    <translate>My heart is torn by anxiety for my wife , Aphrodite . Most likely , Chaos also honed her into a stone and she could not wait until her rescue.</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_GEFEST_5</text>
+    <translate>But my lameness does not allow me to immediately go in search of !</translate>
+   </s>
+   <s>
+    <text>DIALOG_04_AURA_6</text>
+    <translate>We'll find her , why would we not worth it.</translate>
+   </s>
+   <s>
+    <text>DIALOG_05_PAN_1</text>
+    <translate>Wedding Crashers in my woods? Shepherds even not play the flute during my sleep, and you dare to disturb my peace personally ! Leave until intact !</translate>
+   </s>
+   <s>
+    <text>DIALOG_05_AURA_2</text>
+    <translate>Chaos engulf your forest and you yourself , if you can not miss us. I - Aura , a hero to me , oracle predicted .</translate>
+   </s>
+   <s>
+    <text>DIALOG_05_PAN_3</text>
+    <translate>Alien to me your achievements and titles, but I will not let you . If you want to - pass . But only at your own risk.</translate>
+   </s>
+   <s>
+    <text>DIALOG_05_AURA_4</text>
+    <translate>We are looking for Aphrodite , goddess of love and beauty. Have you never met her in my woods?</translate>
+   </s>
+   <s>
+    <text>DIALOG_05_PAN_5</text>
+    <translate>As if I have no other worries except to look at fossilized gods. You tire me with questions - I'm too busy . Goodbye !</translate>
+   </s>
+   <s>
+    <text>DIALOG_05_AURA_6</text>
+    <translate>I do not remember that I talked about petrified gods . This rascal is clearly hiding something. Let's follow him !</translate>
+   </s>
+   <s>
+    <text>DIALOG_06_PAN_1</text>
+    <translate>Please do not punish me ! I just could not resist the beauty of Aphrodite - with satyrs we admired her statue every day!</translate>
+   </s>
+   <s>
+    <text>DIALOG_06_AURA_2</text>
+    <translate>Thy deed no excuse ! The gods will decide what punishment you assign.</translate>
+   </s>
+   <s>
+    <text>DIALOG_06_APHRODITE_3</text>
+    <translate>I beg you, release me soon ! Another day in this terrible forest, and I would just crumbled to dust.</translate>
+   </s>
+   <s>
+    <text>DIALOG_06_APHRODITE_4</text>
+    <translate>Thank you, my saviors ! But our world is far from safe. You must vacate the warrior goddess Athena , and I've got to go home.</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_MOVES_TITLE</text>
+    <translate>sandals of Hermes</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_MOVES_DESC</text>
+    <translate>Adds 5 additional strokes per level.</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_TIME_TITLE</text>
+    <translate>watch Demeter</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_TIME_DESC</text>
+    <translate>Adds an additional 15 seconds per level.</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_COLOR_TITLE</text>
+    <translate>Power Aphrodite</translate>
+   </s>
+   <s>
+    <text>PASSIVE_BONUS_COLOR_DESC</text>
+    <translate>Removes chips of the same color on the level.</translate>
+   </s>
+   <s>
+    <text>BONUS_AFRODITA_TITLE</text>
+    <translate>Enchantment Athens</translate>
+   </s>
+   <s>
+    <text>BONUS_AFRODITA_DESC</text>
+    <translate>Combines chips by color groups.</translate>
+   </s>
+   <s>
+    <text>BONUS_GEFEST_TITLE</text>
+    <translate>Beat Hephaestus</translate>
+   </s>
+   <s>
+    <text>BONUS_GEFEST_DESC</text>
+    <translate>Removes multiple columns of chips on the playing field.</translate>
+   </s>
+   <s>
+    <text>BONUS_ZEUS_TITLE</text>
+    <translate>wrath of Zeus</translate>
+   </s>
+   <s>
+    <text>BONUS_ZEUS_DESC</text>
+    <translate>Removes multiple rows of chips on the playing field.</translate>
+   </s>
+   <s>
+    <text>AUTHOR_PROJECT_MANAGER</text>
+    <translate>Project manager</translate>
+   </s>
+   <s>
+    <text>AUTHOR_1</text>
+    <translate>Maxim Kalyuzhniy</translate>
+   </s>
+   <s>
+    <text>AUTHOR_GAME_DESIGN</text>
+    <translate>Game designer</translate>
+   </s>
+   <s>
+    <text>AUTHOR_2</text>
+    <translate>Danil Prohorenko</translate>
+   </s>
+   <s>
+    <text>AUTHOR_LEAD_PROGRAMMER</text>
+    <translate>Lead Programmer</translate>
+   </s>
+   <s>
+    <text>AUTHOR_3</text>
+    <translate>Michael Ostapenko</translate>
+   </s>
+   <s>
+    <text>AUTHOR_PROGRAMMING</text>
+    <translate>Programming</translate>
+   </s>
+   <s>
+    <text>AUTHOR_4</text>
+    <translate>Eugene Hodenko</translate>
+   </s>
+   <s>
+    <text>AUTHOR_5</text>
+    <translate>Igor Simonenko</translate>
+   </s>
+   <s>
+    <text>AUTHOR_LEAD_DESIGNER</text>
+    <translate>Lead designer</translate>
+   </s>
+   <s>
+    <text>AUTHOR_6</text>
+    <translate>Aleksandra Krasnikova</translate>
+   </s>
+   <s>
+    <text>AUTHOR_GRAPHICS</text>
+    <translate>Graphics</translate>
+   </s>
+   <s>
+    <text>AUTHOR_7</text>
+    <translate>Artem Cheboha</translate>
+   </s>
+   <s>
+    <text>AUTHOR_8</text>
+    <translate>Dmitry Shchetkin</translate>
+   </s>
+   <s>
+    <text>AUTHOR_9</text>
+    <translate>Sergey Orlyansky</translate>
+   </s>
+   <s>
+    <text>AUTHOR_10</text>
+    <translate>Stanislav Minchenko</translate>
+   </s>
+   <s>
+    <text>AUTHOR_11</text>
+    <translate>Yuri Gerasimov</translate>
+   </s>
+   <s>
+    <text>AUTHOR_12</text>
+    <translate>Natalia Sudorzhenko</translate>
+   </s>
+   <s>
+    <text>AUTHOR_13</text>
+    <translate>Aleksandra Sadykova</translate>
+   </s>
+   <s>
+    <text>AUTHOR_14</text>
+    <translate>Anna Krotova</translate>
+   </s>
+   <s>
+    <text>AUTHOR_15</text>
+    <translate>Evgeniya Potrohova</translate>
+   </s>
+   <s>
+    <text>AUTHOR_TEXT</text>
+    <translate>Text</translate>
+   </s>
+   <s>
+    <text>AUTHOR_16</text>
+    <translate>Yuliya Strelskaya</translate>
+   </s>
+   <s>
+    <text>AUTHOR_ANIMATION_AND_FX</text>
+    <translate>Animation and special effects</translate>
+   </s>
+   <s>
+    <text>AUTHOR_17</text>
+    <translate>Paul Kalaytan</translate>
+   </s>
+   <s>
+    <text>AUTHOR_18</text>
+    <translate>Vitaliy Krasnikov</translate>
+   </s>
+   <s>
+    <text>AUTHOR_MOVIES</text>
+    <translate>Movies</translate>
+   </s>
+   <s>
+    <text>AUTHOR_19</text>
+    <translate>Roman Black</translate>
+   </s>
+   <s>
+    <text>AUTHOR_PUBLISHER</text>
+    <translate>Publisher 8floor</translate>
+   </s>
+ </root>
