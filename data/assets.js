@@ -17,8 +17,6 @@ var assets =
     {"name":"btn_play","src":"buttons/btn_play.png","frames":3,"layers":1,"width":56,"height":44},
     {"name":"btn_plus","src":"buttons/btn_plus.png","frames":3,"layers":1,"width":56,"height":44},
     {"name":"btn_reset","src":"buttons/btn_reset.png","frames":3,"layers":1,"width":60,"height":50},
-    {"name":"effects","src":"buttons/effects.png","frames":2,"layers":1,"width":20,"height":20},
-    {"name":"music","src":"buttons/music.png","frames":2,"layers":1,"width":18,"height":18},
     {"name":"music_off","src":"buttons/music_off.png","frames":1,"layers":1,"width":34,"height":36},
     {"name":"music_on","src":"buttons/music_on.png","frames":1,"layers":1,"width":34,"height":36},
     {"name":"sound_off","src":"buttons/sound_off.png","frames":1,"layers":1,"width":32,"height":36},
